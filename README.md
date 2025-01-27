@@ -3,6 +3,9 @@
 **Game Zone** is your ultimate gaming platform featuring over 100 exciting and diverse games for players of all ages. Whether you're in the mood for action, strategy, puzzles, or just casual fun, **Game Zone** has you covered. Enjoy games directly in your browser without the need for downloads or installations!  
 
 ---
+## Auther; Yousef Amir Shamsaldeen
+
+---
 
 ## Key Features  
 - 🌟 **Massive Game Library**: A handpicked selection of over 100 games across various genres.  
